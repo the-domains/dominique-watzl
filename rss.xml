@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dominique Watzl]]></title>
+        <description><![CDATA[Dominique Watzl]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Mar 2016 16:11:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Top Ten]]></title>
+            <description><![CDATA[<h1>Top Ten</h1>]]></description>
+            <link>undefinedtop-ten/index.html</link>
+            <guid isPermaLink="false">784ed3c5-29c7-475b-bda7-1b08df66bcaa</guid>
+            <pubDate>Sat, 19 Mar 2016 16:11:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
