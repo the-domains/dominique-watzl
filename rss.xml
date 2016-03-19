@@ -4,8 +4,15 @@
         <description><![CDATA[Dominique Watzl]]></description>
         <link>http://watzl.it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 18:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 19:01:59 GMT</lastBuildDate>
         <atom:link href="http://watzl.it/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Maturaball HTL Leonding 2016</p>]]></description>
+            <link>http://watzl.it/one-of-my-recent-works/index.html</link>
+            <guid isPermaLink="false">41240d1b-43ad-4281-b2c2-c8066e00e327</guid>
+            <pubDate>Sat, 19 Mar 2016 19:01:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Top Tens]]></title>
             <description><![CDATA[<article><h1>Top Tens</h1><p>Every year's top ten images I made.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25a54abd-7477-4e31-a078-f2ca50fe88f1.jpg"></article>]]></description>
