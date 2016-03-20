@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Maturaball HTL Leonding 2016
-datePublished: '2016-03-19T20:18:27.982Z'
-dateModified: '2016-03-19T20:18:20.752Z'
+datePublished: '2016-03-20T16:50:23.876Z'
+dateModified: '2016-03-20T16:50:18.040Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-one-of-my-recent-works.md
@@ -25,7 +25,7 @@ _type: Article
 Maturaball HTL Leonding 2016
 
 One of my recent works.  
-I was hired to photograph on the [matura ball][0] of the [HTL Leonding][1] in Linz. Here my favourite shots of the evening. You can find the rest in the link above.
+I was hired to photograph on the [matura ball][0] of the [HTL Leonding][1] in Linz in the kaufmännischen Palais. Here my favourite shots of the evening. You can find the rest in the link above.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/290bd790efd1dbc79bc6a040de78d4eec6a8e1ee.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b02879c-10a5-4309-a0a3-18fc4f5cdb8a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8e3ff5d-ba45-4bda-b43f-5a054e5f0de6.jpg)
