@@ -6,19 +6,19 @@ isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: "Yesterday morning. Salzburg just after sunrise,\_"
-datePublished: '2016-03-28T12:16:42.296Z'
-dateModified: '2016-03-28T12:16:37.481Z'
-title: ''
+description: 'Yesterday morning. Salzburg just after sunrise, we had a little sunrise service there for easter :)'
+datePublished: '2016-03-28T12:19:18.413Z'
+dateModified: '2016-03-28T12:19:11.780Z'
+title: Sunrise Salzburg Easter
 author: []
+sourcePath: _posts/2016-03-28-yesterday-morning-salzburg-just-after-sunrise.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-yesterday-morning-salzburg-just-after-sunrise.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
