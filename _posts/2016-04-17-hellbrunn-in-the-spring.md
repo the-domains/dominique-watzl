@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T18:20:12.122Z'
-dateModified: '2016-04-17T18:18:22.331Z'
+datePublished: '2016-04-17T18:25:00.526Z'
+dateModified: '2016-04-17T18:24:58.078Z'
 title: Hellbrunn in the Spring
 author: []
 sourcePath: _posts/2016-04-17-hellbrunn-in-the-spring.md
@@ -24,6 +24,8 @@ _type: Article
 
 ---
 # Hellbrunn in the Spring
+
+A little walk in the mansion of Hellbrunn, only had my phone with me. Still this is always a fun way to photograph. Location: Salzburg, Austria
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40a1f496-fae1-48de-b6df-e0017cbeef32.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/922690b1-2cb7-45a8-91a2-9c639dad13b2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a11ee498-1931-4d4e-b524-0fd51d432bfd.jpg)
