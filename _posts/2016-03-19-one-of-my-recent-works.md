@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Maturaball HTL Leonding 2016
-datePublished: '2016-04-17T19:01:26.645Z'
-dateModified: '2016-04-17T19:00:21.535Z'
+datePublished: '2016-04-17T19:05:56.583Z'
+dateModified: '2016-04-17T19:05:56.016Z'
 title: 'Featured - Maturaball '
 author: []
 sourcePath: _posts/2016-03-19-one-of-my-recent-works.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: one-of-my-recent-works/index.html
-_type: Article
+_type: WebPage
 
 ---
 Maturaball HTL Leonding 2016
