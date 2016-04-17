@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T18:18:11.298Z'
-dateModified: '2016-04-17T18:17:14.071Z'
+datePublished: '2016-04-17T18:20:12.122Z'
+dateModified: '2016-04-17T18:18:22.331Z'
 title: Hellbrunn in the Spring
 author: []
+sourcePath: _posts/2016-04-17-hellbrunn-in-the-spring.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-hellbrunn-in-the-spring.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
