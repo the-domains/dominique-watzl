@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T18:25:00.526Z'
-dateModified: '2016-04-17T18:24:58.078Z'
+datePublished: '2016-04-17T18:29:16.599Z'
+dateModified: '2016-04-17T18:29:16.137Z'
 title: Hellbrunn in the Spring
 author: []
 sourcePath: _posts/2016-04-17-hellbrunn-in-the-spring.md
