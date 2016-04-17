@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: On my daily bicycle ride to the university I saw this beautiful garden.
-datePublished: '2016-04-13T15:58:59.039Z'
-dateModified: '2016-04-13T15:56:54.312Z'
-title: ' '
+datePublished: '2016-04-17T18:27:08.049Z'
+dateModified: '2016-04-17T18:27:07.476Z'
+title: Spring Garden
 author: []
 sourcePath: _posts/2016-04-13-spring-garden.md
 published: true
