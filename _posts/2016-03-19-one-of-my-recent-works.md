@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Maturaball HTL Leonding 2016
-datePublished: '2016-04-17T18:58:19.800Z'
-dateModified: '2016-04-17T18:51:32.043Z'
-title: Featured - Maturaball HTL Leonding 2016
+datePublished: '2016-04-17T19:01:26.645Z'
+dateModified: '2016-04-17T19:00:21.535Z'
+title: 'Featured - Maturaball '
 author: []
 sourcePath: _posts/2016-03-19-one-of-my-recent-works.md
 published: true
