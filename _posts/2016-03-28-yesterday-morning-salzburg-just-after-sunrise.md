@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Yesterday morning. Salzburg just after sunrise, we had a little sunrise service there for easter :)'
-datePublished: '2016-04-20T18:57:52.888Z'
-dateModified: '2016-04-20T18:57:52.526Z'
+datePublished: '2016-04-20T18:59:23.630Z'
+dateModified: '2016-04-20T18:59:23.190Z'
 title: ''
 author:
   - name: ''
@@ -25,6 +25,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
+# Sunrise Salzburg Easter
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/89b448711912cbc5dc3462060b1aa5c139114e00.jpg)
 
 Yesterday morning. Salzburg just after sunrise, we had a little sunrise service there for easter :)
