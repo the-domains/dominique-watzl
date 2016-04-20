@@ -1,16 +1,17 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T18:29:16.599Z'
-dateModified: '2016-04-17T18:29:16.137Z'
+datePublished: '2016-04-20T19:05:29.409Z'
+dateModified: '2016-04-20T19:05:28.245Z'
 title: Hellbrunn in the Spring
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-17-hellbrunn-in-the-spring.md
 published: true
 authors: []
@@ -19,6 +20,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: hellbrunn-in-the-spring/index.html
 _context: 'http://schema.org'
 _type: Article
 
