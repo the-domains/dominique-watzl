@@ -1,16 +1,17 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: On my daily bicycle ride to the university I saw this beautiful garden.
-datePublished: '2016-04-17T18:27:08.049Z'
-dateModified: '2016-04-17T18:27:07.476Z'
-title: Spring Garden
-author: []
+description: On my daily bicycle ride to the university I saw this beautiful garden. Just had to take a snap.
+datePublished: '2016-04-20T19:04:06.857Z'
+dateModified: '2016-04-20T19:04:06.250Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-13-spring-garden.md
 published: true
 authors: []
@@ -19,10 +20,12 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: spring-garden/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
+# Spring Garden
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77dcced8-91de-4657-b87f-7458939f6228.jpg)
 
-On my daily bicycle ride to the university I saw this beautiful garden.
+On my daily bicycle ride to the university I saw this beautiful garden. Just had to take a snap.
