@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Yesterday morning. Salzburg just after sunrise, we had a little sunrise service there for easter :)'
-datePublished: '2016-04-20T18:38:32.178Z'
-dateModified: '2016-04-20T18:37:20.134Z'
+datePublished: '2016-04-20T18:39:14.392Z'
+dateModified: '2016-04-20T18:38:39.219Z'
 title: ''
 author:
   - name: ''
