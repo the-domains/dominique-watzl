@@ -1,16 +1,17 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Yesterday morning. Salzburg just after sunrise, we had a little sunrise service there for easter :)'
-datePublished: '2016-03-28T12:19:18.413Z'
-dateModified: '2016-03-28T12:19:11.780Z'
-title: Sunrise Salzburg Easter
-author: []
+datePublished: '2016-04-20T18:37:09.668Z'
+dateModified: '2016-04-20T18:37:05.442Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-28-yesterday-morning-salzburg-just-after-sunrise.md
 published: true
 authors: []
@@ -19,6 +20,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: sunrise-salzburg-easter/index.html
 _context: 'http://schema.org'
 _type: Article
 
