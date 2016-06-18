@@ -1,6 +1,6 @@
 name: watzl.it
 favicon: null
-layout_spectrum: 0.26754
+layout_spectrum: 0.6731226025149226
 typography_spectrum: 0.74549
 title: Dominique Watzl Photography
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fdfe9a'
-    - '#f2bf6b'
-    - '#d79e54'
-    - '#bc8447'
-    - '#99683b'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0
-  rhythmicContrast: 1
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.25533901364542544
+  lightness: 0.7006643775384873
+  saturation: 0.8452066299505532
+  rhythmicContrast: 0.14126619487069547
 purpose: []
