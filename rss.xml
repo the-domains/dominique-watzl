@@ -4,8 +4,15 @@
         <description><![CDATA[Dominique Watzl Photography]]></description>
         <link>http://watzl.it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 20:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 14:42:47 GMT</lastBuildDate>
         <atom:link href="http://watzl.it/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who I am]]></title>
+            <description><![CDATA[<article><h1>Who I am</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31630c8b-365c-49b8-897a-354300b0484f.jpg"></article>]]></description>
+            <link>http://watzl.it/who-i-am/index.html</link>
+            <guid isPermaLink="false">c027087f-2fed-47e3-a0aa-eed72086d79d</guid>
+            <pubDate>Mon, 20 Jun 2016 14:42:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Running Waters]]></title>
             <description><![CDATA[<article><h1>Running Waters</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/971d8a14ba9b5ed7ee104b685b7c062a9ee9580b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://watzl.it/one-of-my-recent-works/index.html</link>
             <guid isPermaLink="false">41240d1b-43ad-4281-b2c2-c8066e00e327</guid>
             <pubDate>Wed, 20 Apr 2016 18:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top Tens]]></title>
-            <description><![CDATA[<article><h1>Top Tens</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57e13bbbf788bc76b2bd47547a8e675d4d068ef5.jpg"></article>]]></description>
-            <link>http://watzl.it/top-ten-of-2015/index.html</link>
-            <guid isPermaLink="false">9b438699-0337-4cbb-8135-1fe80b7b18b7</guid>
-            <pubDate>Sun, 17 Apr 2016 18:27:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
