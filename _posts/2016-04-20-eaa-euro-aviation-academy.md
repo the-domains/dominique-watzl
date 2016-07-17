@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-07-17T19:17:03.081Z'
-sourcePath: _posts/2016-04-20-eaa-euro-aviation-academy.md
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-07-17T19:15:34.481Z'
-title: EAA - Euro Aviation Academy
-publisher: null
-description: My works while working there.
+inNav: false
 inLanguage: null
-inNav: true
+keywords: []
+description: My works while working there.
+datePublished: '2016-07-17T19:42:11.813Z'
+dateModified: '2016-07-17T19:36:17.210Z'
+sourcePath: _posts/2016-04-20-eaa-euro-aviation-academy.md
+author: []
+title: EAA - Euro Aviation Academy
+authors: []
+publisher: null
 starred: false
 url: eaa-euro-aviation-academy/index.html
 _type: Article
