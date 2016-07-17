@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-17T19:10:43.897Z'
+datePublished: '2016-07-17T19:12:28.554Z'
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-17T19:10:26.285Z'
+dateModified: '2016-07-17T19:12:27.995Z'
 title: Altaussee
 publisher: null
 description: >-
@@ -13,8 +13,8 @@ description: >-
   And now also the place where parts of one James Bond movie were filmed.
 inLanguage: null
 inNav: true
-starred: false
 sourcePath: _posts/2016-07-17-altaussee.md
+starred: false
 url: altaussee/index.html
 _type: Article
 
