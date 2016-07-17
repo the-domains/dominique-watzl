@@ -1,20 +1,4 @@
-name: watzl.it
-favicon: null
-layout_spectrum: 0.6731226025149226
 typography_spectrum: 0.74549
-title: Dominique Watzl Photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75265990-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F2385A'
@@ -26,4 +10,25 @@ color:
   lightness: 0.7006643775384873
   saturation: 0.8452066299505532
   rhythmicContrast: 0.14126619487069547
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6731226025149226
+analytics:
+  google: UA-75265990-1
+  facebook: null
+  twitter: null
+name: watzl.it
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 5d8e384a-1616-4bae-8bc7-55c749bbb175
+    url: 2016-07-17-altaussee.html
+    name: Altaussee
+    type: content
+favicon: null
+title: Dominique Watzl Photography
 purpose: []
