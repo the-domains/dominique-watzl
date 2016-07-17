@@ -1,31 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: My works from working for them
-datePublished: '2016-04-20T19:26:46.229Z'
-dateModified: '2016-04-20T19:26:42.349Z'
-title: EAA - Euro Aviation Academy
-author: []
+datePublished: '2016-07-17T19:17:03.081Z'
 sourcePath: _posts/2016-04-20-eaa-euro-aviation-academy.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-07-17T19:15:34.481Z'
+title: EAA - Euro Aviation Academy
+publisher: null
+description: My works while working there.
+inLanguage: null
+inNav: true
+starred: false
 url: eaa-euro-aviation-academy/index.html
 _type: Article
 
 ---
 # EAA - Euro Aviation Academy
 
-My works from working for them
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c797c327ece02d99c9860ca9a896a87df8fadc52.jpg)
+My works while working there.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90114d3053938b6f2fbabe0e0926bd835bd5527b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a535e66-2986-4ed9-a164-d0552d44bbe5.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2be39803627006015aa3c137ed52b7717b0e2da.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecff4eb3-bccd-4b21-a75b-1a4442166fad.jpg)
