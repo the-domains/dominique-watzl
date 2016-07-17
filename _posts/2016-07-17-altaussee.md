@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-07-17T19:12:28.554Z'
 inFeed: true
-authors: []
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
-author: []
-dateModified: '2016-07-17T19:12:27.995Z'
-title: Altaussee
-publisher: null
 description: >-
   My best shots from Altaussee. One of the most beautiful places of the world.
   And now also the place where parts of one James Bond movie were filmed.
-inLanguage: null
-inNav: true
+datePublished: '2016-07-17T19:35:26.413Z'
+dateModified: '2016-07-17T19:35:22.844Z'
+author: []
+title: Altaussee
 sourcePath: _posts/2016-07-17-altaussee.md
+authors: []
+publisher: null
 starred: false
 url: altaussee/index.html
 _type: Article
