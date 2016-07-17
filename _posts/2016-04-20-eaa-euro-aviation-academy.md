@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-17T20:27:15.203Z'
+datePublished: '2016-07-17T20:38:43.051Z'
 sourcePath: _posts/2016-04-20-eaa-euro-aviation-academy.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-17T20:24:48.190Z'
+dateModified: '2016-07-17T20:34:19.128Z'
 title: EAA - Euro Aviation Academy
 publisher: null
 description: My works while working there.
