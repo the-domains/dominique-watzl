@@ -1,25 +1,21 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: >-
   One of my recent works. I was hired to photograph on the matura ball of the
   HTL Leonding in Linz in the kaufmännischen Palais. Here my favourite shots of
   the evening. You can find the rest in the link above.
-datePublished: '2016-07-17T19:17:02.577Z'
-dateModified: '2016-04-20T19:16:57.982Z'
+datePublished: '2016-07-17T19:28:28.507Z'
+dateModified: '2016-07-17T19:24:05.447Z'
 title: Maturaball HTL Leonding 2016
 author: []
 sourcePath: _posts/2016-03-19-one-of-my-recent-works.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: one-of-my-recent-works/index.html
 _type: Article
 
