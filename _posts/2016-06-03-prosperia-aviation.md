@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: >-
   One of my assignments I had in 2015. Just love planes and being on the
   airport.
-datePublished: '2016-06-03T20:42:01.220Z'
-dateModified: '2016-06-03T20:41:55.106Z'
+datePublished: '2016-07-17T19:28:22.276Z'
+dateModified: '2016-07-17T19:23:53.657Z'
 title: Prosperia Aviation
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-03-prosperia-aviation.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-03-prosperia-aviation.md
 url: prosperia-aviation/index.html
 _type: Article
 
@@ -31,14 +31,9 @@ One of my assignments I had in 2015\. Just love planes and being on the airport.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b78dce5-7ffc-4974-ad3c-63b05f373290.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60004424-582c-47d0-94ba-28aa1754cda7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b8f53cd-75da-45f9-84ca-c16c30b16dd4.jpg)
-
-  
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5aac45a-b0c7-471d-a503-4894b0fcd6e6.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/be9dcd19e2f22d2624bbd19a6d7a4608c7aad9fc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f82dc2ae-e52e-4750-bcf2-b60e1a49952e.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/892b77f0-b097-40cc-9723-55dffc777afc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e53178f6-323b-4002-bd26-dab1cfaa0ec4.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2033b53ad3d2f4d916478ef452bd857450559e6.jpg)
