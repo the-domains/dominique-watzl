@@ -4,7 +4,7 @@
         <description><![CDATA[Dominique Watzl]]></description>
         <link>http://watzl.it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 14:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 14:24:59 GMT</lastBuildDate>
         <atom:link href="http://watzl.it/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Who I am]]></title>
@@ -12,6 +12,13 @@
             <link>http://watzl.it/who-i-am/index.html</link>
             <guid isPermaLink="false">c027087f-2fed-47e3-a0aa-eed72086d79d</guid>
             <pubDate>Fri, 12 Aug 2016 14:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EAA - Euro Aviation Academy]]></title>
+            <description><![CDATA[<article><h1>EAA - Euro Aviation Academy</h1><p>My works while working there.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/494ef5ed-1bd0-4f4c-95aa-3f5cbe2eaea2.jpg"></article>]]></description>
+            <link>http://watzl.it/eaa-euro-aviation-academy/index.html</link>
+            <guid isPermaLink="false">0dbfb950-096f-45ad-ada3-f2ff39bffc9c</guid>
+            <pubDate>Sun, 17 Jul 2016 20:38:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Altaussee]]></title>
