@@ -28,14 +28,14 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Altaussee
+    id: 5d8e384a-1616-4bae-8bc7-55c749bbb175
+    type: content
   - name: Who I am
     id: c027087f-2fed-47e3-a0aa-eed72086d79d
     type: content
   - name: Top Tens
     id: 9b438699-0337-4cbb-8135-1fe80b7b18b7
-    type: content
-  - name: Altaussee
-    id: 5d8e384a-1616-4bae-8bc7-55c749bbb175
     type: content
 favicon: null
 title: Dominique Watzl
