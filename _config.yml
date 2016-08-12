@@ -27,6 +27,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Who I am
+    id: c027087f-2fed-47e3-a0aa-eed72086d79d
+    type: content
 favicon: null
 title: Dominique Watzl
 description: Photography
