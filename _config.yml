@@ -1,24 +1,4 @@
-name: watzl.it
-favicon: null
-layout_spectrum: 0.6731226025149226
 typography_spectrum: 0.74549
-author:
-  name: Dominique Watzl
-  email: ''
-title: Dominique Watzl
-description: Photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-75265990-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: ''
-  appId: null
 color:
   brandColors:
     - '#fc8231'
@@ -30,4 +10,24 @@ color:
   lightness: 1
   saturation: 0.875
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: ''
+  appId: null
+layout_spectrum: 0.6731226025149226
+analytics:
+  google: UA-75265990-1
+  facebook: null
+  twitter: null
+author:
+  name: Dominique Watzl
+  email: ''
+name: watzl.it
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Dominique Watzl
+description: ''
 purpose: []
