@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-12T14:34:45.643Z'
+datePublished: '2016-08-12T14:40:57.228Z'
 sourcePath: _posts/2016-07-17-altaussee.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-12T14:34:45.032Z'
+dateModified: '2016-08-12T14:40:56.444Z'
 title: Altaussee
 publisher: {}
 description: >-
